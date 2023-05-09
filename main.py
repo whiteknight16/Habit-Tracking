@@ -1,9 +1,8 @@
 import requests
 from datetime import datetime
-# USERNAME = "your created usename"
-# TOKEN = "your created token"
-USERNAME = "whiteknight16"
-TOKEN = "dfghexdghdw"
+USERNAME = "your created usename"
+TOKEN = "your created token"
+
 
 
 # CREATING USER
